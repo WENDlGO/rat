@@ -10,7 +10,7 @@ fn main() {
         println!(": End of file\n")
     }
     else {
-        println!("Usage: rat [FILE]\n");
-        println!("Example: rat example.txt")
+        println!("\nUsage: rat [FILE]");
+        println!("Example: rat example.txt\n")
     }
 }
